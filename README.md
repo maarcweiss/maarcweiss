@@ -17,7 +17,7 @@
 <img align="left" width="15%" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 
 
-# 📚 My Blog Posts 
+<align="left" # 📚 My Blog Posts/> 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
