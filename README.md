@@ -17,8 +17,6 @@
 <img align="left" width="11.5%" src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white"/>
 
 
-
-
 # 📚 My Blog Posts
 <!-- BLOG-POST-LIST:START -->
 
