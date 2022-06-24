@@ -14,7 +14,7 @@
 
 <img align="left" width="13.5%" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 
-<img align="left" width="11%" src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+<img align="left" width="10%" src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white"/>
 
 ^
 # 📚 My Blog Posts
