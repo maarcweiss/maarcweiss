@@ -20,10 +20,6 @@
 # 📚 My Blog Posts 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-<<<<<<< HEAD
 
-# My NFT Project Website
-<!-- NFT-WEBSITE:START -->
-<!-- NFT-WEBSITE:END -->
-=======
->>>>>>> 980471a72675b2d909b9fc7b81c083e994457794
+
+
