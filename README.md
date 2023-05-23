@@ -19,6 +19,10 @@
 ^
 # 📚 My Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- https://medium.com/@mweiss.eth/solidity-and-evm-bit-shifting-and-masking-in-assembly-yul-942f4b4ebb6a
+
+- https://medium.com/@mweiss.eth/rlp-encoding-and-zksync-era-library-review-part-i-4826a78f4677
+
 - https://medium.com/@mweiss.eth/send-ether-with-web3-py-python-bd0e8e85e93e
 
 - https://medium.com/@mweiss.eth/gas-saving-solidity-81cb5aa7b79b
