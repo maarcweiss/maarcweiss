@@ -55,9 +55,9 @@ He has done tons of reviews (over 50) ranging from public, to firm and private. 
 
 
 
-# Bug Bounty Disclosures
+# 0xWeiss Bug Bounty Disclosures
 
-### Bug Bounty Disclosures 0xWeiss
+### 0xWeiss Bug Bounty Disclosures 
 
 | Protocol | Protocol Type | Link |
 | ---- |  ---------| ---------| 
