@@ -40,6 +40,14 @@ He has done tons of reviews (over 50) ranging from public, to firm and private. 
 | [Davos Protocol II]() | Bribes/Gauges | 5 | 12 | 1300 | [Report](https://drive.google.com/file/d/143oWg-yltoc0P6ehjYYU2Bd69PGnJJtZ/view?usp=sharing)
 | [D2Quared]() | DPP/GMX/Camelot/Trader Joe| 8 | 12 | 5000 | Coming soon
 
+# 0xWeiss public appearances 
+
+[One of the most watched auditing videos in the whole space. 1h 15min explaining my auditing process with over 300 attendees and 7900 views](https://www.youtube.com/watch?v=ZAiSou0CJmE&t=3784s&ab_channel=OpenSense-Research%2CTogether)
+
+[Defi Security Summit 2023 security talk](https://www.youtube.com/watch?v=xkeECuxMmcY&t=46s&ab_channel=DeFiSecuritySummit)
+
+
+
 
 # 📚 My Technical Blog Posts
 <!-- BLOG-POST-LIST:START -->
