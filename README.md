@@ -27,6 +27,18 @@ He has done tons of reviews (over 50) ranging from public, to firm and private. 
 | [Edgeless Network]() | Lido Strats | Coming soon
 
 
+### Paladin Security Reviews
+
+| Protocol | Protocol Type | High Risk | Medium Risk | NSLOC | Report |
+| ---- |  ---------| ---------|  -------|  -------| --------|
+| [Ambit Finance](https://ambit.finance/) | Lending | 14 | 16 | 4000 | [Report](https://drive.google.com/file/d/1liDKExXU08Fqwf_n_A6QI4-lxos2HuoY/view?usp=sharing)
+| [Smardex](https://www.arrow.markets/) | AMM | 5 | 11 | 2000 | [Report](https://drive.google.com/file/d/1I7Ubs_RvjPvdkEborvIpEfiwbfruSLwg/view?usp=sharing)
+| [Wallchain](https://www.wallchain.xyz/) | MEV Protection | 1 | 2 | 500 | [Report](https://drive.google.com/file/d/1I7Ubs_RvjPvdkEborvIpEfiwbfruSLwg/view?usp=sharing)
+| [Davos Protocol I]() | VE/Governance | 2 | 1 | 1300 | [Report](https://drive.google.com/file/d/1vbnhNQjsHTjj1t_QVHlvrr55ETPeEIuP/view?usp=sharing)
+| [Davos Protocol II]() | Bribes/Gauges | 5 | 12 | 1300 | [Report](https://drive.google.com/file/d/143oWg-yltoc0P6ehjYYU2Bd69PGnJJtZ/view?usp=sharing)
+| [D2Quared]() | DPP/GMX/Camelot/Trader Joe| 8 | 12 | 5000 | Coming soon
+
+
 # 📚 My Technical Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - https://medium.com/@mweiss.eth/solidity-and-evm-bit-shifting-and-masking-in-assembly-yul-942f4b4ebb6a
