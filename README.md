@@ -8,7 +8,7 @@ He has done tons of reviews (over 50) ranging from public, to firm and private. 
 
 
 
-# 0xWeiss's private security reviews
+# 0xWeiss private security reviews
 
 
 ### Private Security Reviews
@@ -26,6 +26,8 @@ He has done tons of reviews (over 50) ranging from public, to firm and private. 
 | [Arrow Markets Token](https://www.arrow.markets/) | OFT Token | Coming soon
 | [Edgeless Network]() | Lido Strats | Coming soon
 
+
+# 0xWeiss Paladin security reviews
 
 ### Paladin Security Reviews
 
