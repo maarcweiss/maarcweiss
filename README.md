@@ -31,9 +31,14 @@ I have done tons of reviews (over 50) ranging from public, to firm and private. 
 | [Champz]() | -- | 2 | 2 | 400 | Coming soon 
 
 
-# 0xWeiss Paladin security reviews
+# Enigma Dark Security Reviews
 
-### Paladin Blockchain Security Reviews
+| Protocol | Protocol Type | High Risk | Medium Risk | NSLOC | Report |
+| ---- |  ---------| ---------|  -------|  -------| --------|
+| [Juicebox]() | -- | - | - | 9000 | Coming soon
+
+
+# 0xWeiss Paladin Security Reviews
 
 | Protocol | Protocol Type | High Risk | Medium Risk | NSLOC | Report |
 | ---- |  ---------| ---------|  -------|  -------| --------|
@@ -47,9 +52,7 @@ I have done tons of reviews (over 50) ranging from public, to firm and private. 
 
 
 
-# 0xWeiss Cantina security reviews
-
-### Paladin Blockchain Security Reviews
+# 0xWeiss Cantina Security Reviews
 
 | Protocol | Protocol Type | High Risk | Medium Risk | NSLOC | Report |
 | ---- |  ---------| ---------|  -------|  -------| --------|
@@ -60,8 +63,6 @@ I have done tons of reviews (over 50) ranging from public, to firm and private. 
 
 
 # 0xWeiss Bug Bounty Disclosures
-
-### 0xWeiss Bug Bounty Disclosures 
 
 | Protocol | Protocol Type | Link |
 | ---- |  ---------| ---------| 
