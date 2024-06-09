@@ -24,7 +24,11 @@ I have done tons of reviews (over 50) ranging from public, to firm and private. 
 | [Sybil Samurai](https://sybilsamurai.com/) | NFT | 1 | 0 | 100 | [Report](https://github.com/maarcweiss/0xWeiss_Security_Reviews/blob/master/Private/Sybil_Samurai_Security_Review_Final_Report.pdf)
 | [Ceden Network](https://ceden.network/) | Nodes + NFTs | 3 | 5 | 800 | Coming soon 
 | [Arrow Markets Token](https://www.arrow.markets/) | OFT Token | - | - | - | Coming soon
+| [Arrow Markets Staking](https://www.arrow.markets/) | Staking contracts | - | - | - | Coming soon
 | [Edgeless Network]() | Lido Strats | 2 | 2 | 400 | Coming soon 
+| [Fantasy Top]() | Card Game | 2 | 2 | 400 | Coming soon 
+| [Yeet]() | Staking | 2 | 2 | 400 | Coming soon 
+| [Champz]() | -- | 2 | 2 | 400 | Coming soon 
 
 
 # 0xWeiss Paladin security reviews
@@ -50,7 +54,7 @@ I have done tons of reviews (over 50) ranging from public, to firm and private. 
 | Protocol | Protocol Type | High Risk | Medium Risk | NSLOC | Report |
 | ---- |  ---------| ---------|  -------|  -------| --------|
 | [Y2K](https://www.y2k.finance/) | Migration | 4 | 6 | 1000 | [Report](https://drive.google.com/file/d/1xeJhjk6yYAIGfBP5Ze2eZJ1ZhHUZyVwV/view?usp=sharing)
-
+| [Meme Launchpad]() | Bonding Curve | 9 | 9 | 600 | Coming soon 
 
 
 
