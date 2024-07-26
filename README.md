@@ -2,7 +2,7 @@
 
 I am an independent security researcher. Co-Founder and Lead Auditor at Enigma Dark, and manage smart contract security in huge protocols like Tapioca DAO and Ambit Finance.
 
-I am also part of Spearbit and Paladin Blockchain Security.
+I am a Security Researcher at Spearbit and Paladin Blockchain Security.
 
 I have done tons of reviews (over 50) ranging from public, to firm and private. I have audited all kinds of DeFi protocols, omnichain, perps, options, lending, liquid staking... 
 
