@@ -36,6 +36,16 @@ I have done tons of reviews (over 50) ranging from public, to firm and private. 
 | Protocol | Protocol Type | High Risk | Medium Risk | NSLOC | Report |
 | ---- |  ---------| ---------|  -------|  -------| --------|
 | [Juicebox]() | -- | - | - | 9000 | Coming soon
+| [Tapioca DAO]() | -- | - | - | 5000 | Coming soon
+| [Tapioca DAO]() | -- | - | - | 3500 | Coming soon
+
+
+# Spearbit Security Reviews
+
+| Protocol | Protocol Type | High Risk | Medium Risk | NSLOC | Report |
+| ---- |  ---------| ---------|  -------|  -------| --------|
+| [Berchain]() | Perps & Validator Incentives | -- | - | - | Coming soon
+
 
 
 # 0xWeiss Paladin Security Reviews
