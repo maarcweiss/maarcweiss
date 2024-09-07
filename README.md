@@ -29,6 +29,10 @@ I have done tons of reviews (over 50) ranging from public, to firm and private. 
 | [Fantasy Top]() | Card Game | 2 | 2 | 400 | Coming soon 
 | [Yeet]() | Staking | 2 | 2 | 400 | Coming soon 
 | [Champz]() | -- | 2 | 2 | 400 | Coming soon 
+| [Volmex]() | -- | 2 | 2 | 400 | Coming soon 
+| [Goldilocks]() | -- | 2 | 2 | 400 | Coming soon 
+| [W3GG]() | -- | 2 | 2 | 400 | Coming soon 
+
 
 
 # Enigma Dark Security Reviews
@@ -38,6 +42,8 @@ I have done tons of reviews (over 50) ranging from public, to firm and private. 
 | [Juicebox]() | -- | - | - | 9000 | Coming soon
 | [Tapioca DAO]() | -- | - | - | 5000 | Coming soon
 | [Tapioca DAO]() | -- | - | - | 3500 | Coming soon
+| [Silo]() | -- | - | - | 4800 | Coming soon
+| [Royco]() | -- | - | - | 300 | Coming soon
 
 
 # Spearbit Security Reviews
