@@ -25,6 +25,7 @@ I have done tons of reviews (over 50) ranging from public, to firm and private. 
 | [Ceden Network](https://ceden.network/) | Nodes + NFTs | 3 | 5 | 800 | Coming soon 
 | [Arrow Markets Token](https://www.arrow.markets/) | OFT Token | - | - | - | Coming soon
 | [Arrow Markets Staking](https://www.arrow.markets/) | Staking contracts | - | - | - | Coming soon
+| [Arrow Markets Claim](https://www.arrow.markets/) | Merkle contracts | - | - | - | Coming soon
 | [Edgeless Network]() | Lido Strats | 2 | 2 | 400 | Coming soon 
 | [Fantasy Top]() | Card Game | 2 | 2 | 400 | Coming soon 
 | [Yeet]() | Staking | 2 | 2 | 400 | Coming soon 
