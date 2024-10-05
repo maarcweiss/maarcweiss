@@ -27,12 +27,12 @@ I have done tons of reviews (over 50) ranging from public, to firm and private. 
 | [Arrow Markets Staking](https://www.arrow.markets/) | Staking contracts | - | - | - | Coming soon
 | [Arrow Markets Claim](https://www.arrow.markets/) | Merkle contracts | - | - | - | Coming soon
 | [Edgeless Network]() | Lido Strats | 2 | 2 | 400 | Coming soon 
-| [Fantasy Top]() | Card Game | 2 | 2 | 400 | Coming soon 
-| [Yeet]() | Staking | 2 | 2 | 400 | Coming soon 
-| [Champz]() | -- | 2 | 2 | 400 | Coming soon 
-| [Volmex]() | -- | 2 | 2 | 400 | Coming soon 
-| [Goldilocks]() | -- | 2 | 2 | 400 | Coming soon 
-| [W3GG]() | -- | 2 | 2 | 400 | Coming soon 
+| [Fantasy Top]() | Card Game | - | - | - | Coming soon 
+| [Yeet]() | Staking | - | - | - | Coming soon 
+| [Champz]() | -- | - | - | - | Coming soon 
+| [Volmex]() | -- | - | - | - | Coming soon 
+| [Goldilocks]() | -- | - | - | - | Coming soon 
+| [W3GG]() | -- | - | - | - | Coming soon 
 
 
 
