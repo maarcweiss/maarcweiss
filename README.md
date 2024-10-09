@@ -1,10 +1,10 @@
 # About 0xWeiss
 
-- I am an independent security researcher and the Co-Founder and Lead Auditor at Enigma Dark, where I oversee smart contract security for large protocols such as Tapioca DAO and Ambit Finance.
+- I am an independent security researcher and the Co-Founder and Lead Auditor at Enigma Dark, where I oversee smart contract security for large protocols such as Aave, Euler, Tapioca DAO, Silo, Credit Coop.
 
 - Additionally, I serve as a Security Researcher at Spearbit and Paladin Blockchain Security.
 
-- With over 100 reviews conducted across public, private, and firm settings, I have audited a diverse range of DeFi protocols, including omnichain solutions, perpetuals, options, lending, and liquid staking platforms.
+- With over 100 reviews conducted across public, private, and firm engagements, I have audited a diverse range of DeFi protocols, including perpetuals, options, lending, and liquid staking platforms.
 
 - In 2024, I was the top 1 ranked solo auditor on Hyacinth, outperforming the second position by more than 2x and earning over six figures in bounties.
 
