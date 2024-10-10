@@ -2,6 +2,8 @@
 
 - I am an independent security researcher and the Co-Founder and Lead Auditor at Enigma Dark, where I oversee smart contract security for large protocols such as Aave, Euler, Tapioca DAO, Silo, Credit Coop.
 
+- I am an in-house security researcher in TapiocaDAO and Ambit Finance
+
 - Additionally, I serve as a Security Researcher at Spearbit and Paladin Blockchain Security.
 
 - With over 100 reviews conducted across public, private, and firm engagements, I have audited a diverse range of DeFi protocols, including perpetuals, options, lending, and liquid staking platforms.
