@@ -15,7 +15,7 @@
 # 0xWeiss private security reviews
 
 | Protocol | Protocol Type | High Risk | Medium Risk | NSLOC | Report |
-| ---- |  ---------| ---------|  -------|  -------| --------|
+| ---- |  ---------| ---------|  -------|  -------| --------| 
 | [Lexer Markets](https://www.lexer.markets/) | Derivatives | 11 | 23 | 13000 | [Report](https://github.com/maarcweiss/0xWeiss_Security_Reviews/blob/master/Private/Security_Review_Lexer_Markets_Final_Report.pdf)
 | [Arrow Markets V2](https://www.arrow.markets/) | Options | 8 | 10 | 3000 | [Report](https://github.com/maarcweiss/0xWeiss_Security_Reviews/blob/master/Private/Arrow_Markets_V2_Security_Review.pdf)
 | [Ambit Finance](https://ambit.finance/) | Lending | 0 | 7 | 4000 | [Report](https://github.com/maarcweiss/0xWeiss_Security_Reviews/blob/master/Private/Ambit_Finance_Security_Review.pdf)
@@ -40,13 +40,13 @@
 
 # 0xWeiss Enigma Dark Security Reviews
 
-| Protocol | Protocol Type | High Risk | Medium Risk | NSLOC | Report |
-| ---- |  ---------| ---------|  -------|  -------| --------|
-| [Juicebox]() | Fundraising | 5 | 16 | 9000 | [Report](https://github.com/Enigma-Dark/security-review-reports/blob/main/2024-04-30_Security_Review_Report_JuiceboxProtocolv4.pdf)
-| [Credit Coop]() | Lending | 11 | 13 | 6000 | [Report](https://github.com/maarcweiss/audits/blob/master/Private/Security_Review_Report_CreditCoopv2.pdf)
-| [Flaunch]() | Launchpad | 2 | 1 | 1700 | [Report](https://github.com/Enigma-Dark/security-review-reports/blob/main/2024-11_Security_Review_FlayerLabs_Flaunch.pdf)
-| [Flaunch Extension]() | Launchpad | 1 | 0 | 500 | [Report](https://github.com/Enigma-Dark/security-review-reports/blob/main/2024-12_Security_Review_Extension_FlayerLabs_Flaunch.pdf)
-| [Silo]() | Lending | 0 | 1 | 3000 | [Report](https://github.com/Enigma-Dark/security-review-reports/blob/main/2025-05_Best_Efforts_Security_Review_Silo_Finance_Silo_v2_Core.pdf)
+| Protocol | Protocol Type | High Risk | Medium Risk | Low Risk | NSLOC | Report |
+| ---- |  ---------| ---------|  -------|  -------| --------| --------|
+| [Juicebox]() | Fundraising | 5 | 16 | 14 | 9000 | [Report](https://github.com/Enigma-Dark/security-review-reports/blob/main/2024-04-30_Security_Review_Report_JuiceboxProtocolv4.pdf)
+| [Credit Coop]() | Lending | 11 | 13 | 33 | 6000 | [Report](https://github.com/maarcweiss/audits/blob/master/Private/Security_Review_Report_CreditCoopv2.pdf)
+| [Flaunch]() | Launchpad | 2 | 1 | 8 | 1700 | [Report](https://github.com/Enigma-Dark/security-review-reports/blob/main/2024-11_Security_Review_FlayerLabs_Flaunch.pdf)
+| [Flaunch Extension]() | Launchpad | 1 | 0 | 4 | 500 | [Report](https://github.com/Enigma-Dark/security-review-reports/blob/main/2024-12_Security_Review_Extension_FlayerLabs_Flaunch.pdf)
+| [Silo]() | Lending | 0 | 1 | 4 | 3000 | [Report](https://github.com/Enigma-Dark/security-review-reports/blob/main/2025-05_Best_Efforts_Security_Review_Silo_Finance_Silo_v2_Core.pdf)
 | [Tapioca DAO]() | Lending | - | - | 5000 | Coming soon
 | [Tapioca DAO]() | Locking mechanism | - | - | 3500 | Coming soon
 
